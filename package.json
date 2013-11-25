@@ -1,0 +1,26 @@
+{
+  "name": "envfile",
+  "version": "0.0.1",
+  "description": "Parse and merge .env files (like foreman)",
+  "main": "envfile.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightsofapollo/envfile.git"
+  },
+  "keywords": [
+    "env",
+    "file",
+    "foreman"
+  ],
+  "author": "James Lal [:lightsofapollo]",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/lightsofapollo/envfile/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  }
+}
